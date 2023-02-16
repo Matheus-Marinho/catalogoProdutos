@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/eCatalogo.Blazor/bin/Debug/net6.0
+/eCatalogo.Blazor/obj
+/eCatalogo.Core/bin/Debug/net6.0
+/eCatalogo.Core/obj
+/eCatalogo.Data/bin/Debug/net6.0
+/eCatalogo.Data/obj
+/eCatalogo.UseCases/bin/Debug/net6.0
+/eCatalogo.UseCases/obj
